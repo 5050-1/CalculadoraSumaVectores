@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SumaDeVectores:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SumaDeVectores_jar</output-path>
+    <root id="archive" name="SumaDeVectores.jar">
+      <element id="module-output" name="SumaDeVectores" />
+    </root>
+  </artifact>
+</component>
